@@ -1,1 +1,1 @@
-Java Coursework
+Java Project
